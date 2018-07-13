@@ -1,0 +1,12 @@
+{
+  "name": "base-blurb",
+  "version": "0.0.1",
+  "description": "The blurb extension is a simple combination of icon, text and hover description along with description title. Blurbs are a great way to showcase small bits of important information, and are often used in rows to display skills or features. Blurb modules can be placed in any column that you create.",
+  "main": "index.js",
+  "scripts": {
+    "scss": "scss --watch static/scss:static/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dasun",
+  "license": "MIT"
+}

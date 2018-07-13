@@ -1,0 +1,27 @@
+{
+  "name": "e25/unyson-helloworld",
+  "type": "wordpress-plugin",
+  "license": ["MIT"],
+  "description": "just a test",
+  "authors": [
+    {
+      "name": "chamara buddika",
+      "email": "chamara@eight25media.com",
+      "homepage": "eight25media.com"
+    }
+  ],
+  "keywords": [
+    "wordpress", "composer","wp","unyson","hello world"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chamara2/hello-world.git"
+  },
+  "support": {
+    "issues": "https://github.com/chamara2/hello-world/issues"
+  },
+  "require": {
+    "php": ">=5.6" 
+  },
+  "scripts": {}
+}

@@ -1,0 +1,36 @@
+{
+  "name": "e25/unyson-helloworld",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "version": "dev-1.0",
+  "description": "helloworld extension with sub shortcodes",
+  "authors": [
+    {
+      "name": "chamara",
+      "email": "chamara@eight25media.com",
+      "homepage": "eight25media.com"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "composer",
+    "wp",
+    "unyson",
+    "shortcode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chamara2/hello-world.git"
+  },
+  "support": {
+    "issues": "https://github.com/chamara2/hello-world/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "scss --watch static/scss:static/css  --style compressed"
+  },
+  "main": "index.js",
+  "dependencies": {
+
+  }
+}

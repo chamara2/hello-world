@@ -9,4 +9,18 @@ Shortcode extension for Unyson Framework just my 1st extnsion hello world.
     
     
 ### Shortcodes
+demo-download
+demo
 
+### Requirements :
+    1. php version >= 5.4
+    
+### Important:
+
+## Features
+Extension consists with 4 tabs
+
+01. Tab 1 - Basic settings
+02. Tab 2 - Appearances settings
+03. Tab 3 - Advanced settings
+04. Tab 4 - Icons

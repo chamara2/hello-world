@@ -1,4 +1,4 @@
-# Unyson Normal Button extension
+# Normal Button extension
 
 The buttons on your favorite websites that link you to different webpages
  

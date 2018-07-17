@@ -18,7 +18,7 @@ demo
 ### Important:
 
 ## Features
-Extension consists with 4 tabs
+Download button Extension consists with 4 tabs
 
 01. Tab 1 - Basic settings
 02. Tab 2 - Appearances settings

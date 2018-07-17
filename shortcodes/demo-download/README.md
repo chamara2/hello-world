@@ -22,31 +22,7 @@ Extension consists with three tabs
 
 01. Edit button text color
 02. Edit button color
-
-#### Tab 2 - Advanced settings
-01. Edit button hover effect
-
-* There are 16 different type of hover effects
     
-##### effects   
-    
-    #`Fade`
-    #`Sweep To Right`
-    #`Sweep To Left`
-    #`Sweep To Bottom`
-    #`Sweep To Top`
-    #`Bounce To Right`
-    #`Bounce To Left`
-    #`Bounce To Bottom`
-    #`Bounce To Top`
-    #`Radial Out`
-    #`Radial In`
-    #`Rectangle In`
-    #`Rectangle Out`
-    #`Shutter In Horizontal`
-    #`Shutter Out Horizontal`
-    #`Shutter In Vertical`
-    #`Shutter Out Vertical`
 
 02. Adding custom classes
     * User able to add custom classes for button
